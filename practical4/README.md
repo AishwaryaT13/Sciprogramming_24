@@ -37,4 +37,4 @@ Real result is:0.693147
 The program calculates and prints the tangent values for each interval, 
 followed by the intermediate area computed using the trapezoidal rule. 
 It then displays the final trapezoidal result and compares it with the 
-actual value of log(2).
+actual value of log(2)
